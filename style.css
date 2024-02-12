@@ -1,0 +1,26 @@
+body {
+  background-color: #f8f9fa;
+  color: #343a40;
+  font-family: "Arial", sans-serif;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+h1 {
+  color: #007bff;
+}
+
+.col {
+  border: solid;
+  border-width: 1px;
+}
+
+a {
+  color: #007bff;
+}
+
+li {
+  margin-bottom: 8px;
+}
